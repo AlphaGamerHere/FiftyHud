@@ -11,6 +11,35 @@
 		"tall"										"480"
 	}
 
+		"HpBg"
+	{
+		"ControlName" "EditablePanel"
+		"FieldName" "HpBg"
+		"visible" 									"1"
+		"enabled" 									"1"
+		"xpos" 										"210"
+		"ypos" 										"360"
+		"zpos" 										"-1"
+		"wide" 										"150"
+		"tall" 										"20"
+		"proportionaltoparent" 						"1"
+		"bgcolor_override" 							"44 40 40 255"
+	}
+
+		"AmmoBg"
+	{
+		"ControlName" "EditablePanel"
+		"FieldName" "AmmoBg"
+		"visible" 									"1"
+		"enabled" 									"1"
+		"xpos" 										"510"
+		"ypos" 										"360"
+		"zpos" 										"-1"
+		"wide" 										"150"
+		"tall" 										"20"
+		"bgcolor_override" 							"44 40 40 255"
+	}
+
 	"HudWeaponAmmo"
 	{
 		"fieldName" 								"HudWeaponAmmo"
@@ -447,7 +476,7 @@
 		"wide"	 									"628"
 		"tall"	 									"468"
 
-		"MaxDeathNotices" 							"4"
+		"MaxDeathNotices" 							"2"
 		"IconScale"	  								"0.35"
 		"LineHeight"	 							"16"
 		"LineSpacing"	  							"4"

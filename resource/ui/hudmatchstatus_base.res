@@ -318,7 +318,7 @@
 			{
 				"ControlName"						"ContinuousProgressBar"
 				"fieldName"							"HealthBar"
-				"xpos"								"0"
+				"xpos"								"100"
 				"ypos"								"0"
 				"zpos"								"3"
 				"wide"								"f0"

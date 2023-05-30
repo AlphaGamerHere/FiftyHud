@@ -360,13 +360,13 @@
 	{
 		"ControlName"	"CTFTeamStatus"
 		"fieldName"		"TeamStatus"
-		"xpos"			"-213"
+		"xpos"			"-215"
 		"xpos_minmode"	"cs-0.8765"
-		"ypos"			"380"
+		"ypos"			"363"
 		"ypos_minmode"	"cs2.79"
 		"zpos"			"2"
 		"wide"			"f0"
-		"tall"			"75"
+		"tall"			"80"
 		"visible"		"1"
 		"enabled"		"1"
 //You can change the values above to move the whole bar at once
@@ -457,7 +457,7 @@
 				"ypos"					"0"
 				"zpos"					"5"
 				"wide"					"136"
-				"tall"					"8"
+				"tall"					"15"
 				"autoResize"			"0"
 				"pinCorner"				"0"
 				"visible"				"1"
@@ -465,7 +465,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"		"55 51 48 0"
+				"bgcolor_override"		"0 0 0 0"
 				"proportionaltoparent"	"1"
 			}
 			"healthbargradient"
@@ -479,7 +479,6 @@
 				"tall"			"8"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"replay/thumbnails/healthbargradient"
 				"scaleImage"	"1"
 			}
 			"overhealbar"
