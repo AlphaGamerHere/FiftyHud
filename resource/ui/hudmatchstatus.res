@@ -490,7 +490,7 @@
 				"ypos"					"0"
 				"zpos"					"6"
 				"wide"					"136"
-				"tall"					"8"
+				"tall"					"15"
 				"autoResize"			"0"
 				"pinCorner"				"0"
 				"visible"				"1"
